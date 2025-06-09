@@ -3,6 +3,7 @@
 <%
     String username = request.getParameter("username");
 %>
+
 <html>
 <head>
     <title>DevOps Demo App</title>
